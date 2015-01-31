@@ -1,0 +1,28 @@
+{
+  "name": "ampersand-input-view-extension",
+  "version": "1.0.0",
+  "description": "an exstension of `ampersand-input-view`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yallups/ampersand-input-view-extension.git"
+  },
+  "keywords": [
+    "input",
+    "ampersand"
+  ],
+  "author": "Shawn Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yallups/ampersand-input-view-extension/issues"
+  },
+  "homepage": "https://github.com/yallups/ampersand-input-view-extension",
+  "dependencies": {
+    "ampersand-input-view": "^3.1.1",
+    "ampersand-state": "^4.4.4",
+    "extend": "^2.0.0"
+  }
+}
